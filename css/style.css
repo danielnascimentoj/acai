@@ -1,0 +1,59 @@
+body{
+    background-color: #470460;
+}
+.cabecalho-fundo{
+    width: auto;
+    height: auto;
+}
+
+header{
+    display: flex;
+    margin: auto;
+    width: 50%;
+ 
+    align-items: center;
+    justify-content: center;
+}
+
+.div-esq{
+    height: 70px;
+    width: 9%;
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.div-meio{
+    height: auto;
+    display: flex;
+    width: 20%;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.div-dir{
+    height: 70px;
+    width: 15%;
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.corpo-fundo{
+    border: solid 0px #fff;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#banner{
+    height:600px;
+    width: auto;
+    }
+
+
